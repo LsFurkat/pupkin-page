@@ -6,7 +6,7 @@
             "data": [
                 {
                     "text": "Dev Diagramm",
-                    "class": "md-title"
+                    "class": "md-title",
  		    "style": {
                           "font-style": "italic",
                           "color": "red"
@@ -43,7 +43,7 @@
             "data": [
                 {
                     "text": "Post",
-                    "class": "md-title"
+                    "class": "md-title",
 		    "style": {
                           "font-style": "italic",
                           "color": "purple"
