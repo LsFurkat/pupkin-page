@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
+        "title": "UML Use FKCase",
         "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/diaPrec2.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
+        "title": "UML FKClass",
         "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "preview": "img/ModuleER.png"
     }
 ]
