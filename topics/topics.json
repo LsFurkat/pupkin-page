@@ -10,5 +10,23 @@
         "title": "UML FKClass",
         "description": "Диаграмма классов",
         "preview": "img/ModuleER.png"
+    },
+    {
+        "id": 3,
+        "title": "UML Potok",
+        "description": "Диаграмма потоков",
+        "preview": "img/3PotokER.png"
+    },
+    {
+        "id": 4,
+        "title": "FPAIFPUG",
+        "description": "FPAIFPUG",
+        "preview": "img/2FPAIFPUG.png"
+    },
+    {
+        "id": 5,
+        "title": "Cocomo",
+        "description": "Cocomo",
+        "preview": "img/cocomo.png"
     }
 ]
