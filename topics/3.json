@@ -1,0 +1,69 @@
+{
+    "title": "Potok ER",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разработка диаграммы",
+                    "class": "md-title"
+ 		    "style": {
+                          "font-style": "italic",
+                          "color": "red"
+                             },
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма создана с помощью "
+                },
+                {
+                    "text": "Draw",
+                    "link": "https://Draw.io"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Draw like u want"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/3PotokER.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Постусловия",
+                    "class": "md-title"
+		    "style": {
+                          "font-style": "italic",
+                          "color": "purple"
+                             },
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                }],
+                [{
+                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
+                }],
+                [{
+                    "text": "ссылка на личную страницу записана в списке группы"
+                }]
+            ]
+        }
+    ]
+}
