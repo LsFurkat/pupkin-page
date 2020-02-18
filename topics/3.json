@@ -1,0 +1,69 @@
+{
+    "title": "Potok ER",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Dev Diagramm",
+                    "class": "md-title"
+ 		    "style": {
+                          "font-style": "italic",
+                          "color": "red"
+                             },
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Diagramm create by "
+                },
+                {
+                    "text": "Draw",
+                    "link": "https://Draw.io"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Draw like u want"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/3PotokER.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Post",
+                    "class": "md-title"
+		    "style": {
+                          "font-style": "italic",
+                          "color": "purple"
+                             },
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "page create by using  HTML, CSS, JS"
+                }],
+                [{
+                    "text": "next page for next lab's"
+                }],
+                [{
+                    "text": "link about student in list"
+                }]
+            ]
+        }
+    ]
+}
