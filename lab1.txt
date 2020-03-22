@@ -1,0 +1,34 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Менеджер"
+actor M0 as "Модуль"
+actor P as "Пользователь"
+actor M as "Программный модуль"
+
+package APP as "Система мониторинга легальности обработки ПДн"{
+usecase A as "Загрузка заполненных анкет в систему"
+usecase B as "Установка сроков хранения анкет"
+usecase C as "Отбор анкет с истекающим сроком действия"
+usecase D as "Обновление срока действия или удаление анкеты"
+P -- (A)
+(A) -- M
+P -- (B)
+(B) -- M
+P -- (C)
+(C) -- M
+P -- (D)
+(D) -- M
+}
+P0 <|-- P
+M --|> M0
+@enduml
