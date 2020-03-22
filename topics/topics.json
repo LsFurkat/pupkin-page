@@ -1,32 +1,26 @@
 [
     {
         "id": 1,
-        "title": "UML Use FKCase",
-        "description": "Диаграмма прецедента",
-        "preview": "img/diaPrec2.png"
+        "title": "Лабораторная работа 1",
+        "description": "Разработка UML Use Case",
+        "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML FKClass",
-        "description": "Диаграмма классов",
-        "preview": "img/ModuleER.png"
+        "title": "Лабораторная работа 2",
+        "description": "Разработка UML Class",
+        "preview": "img/use-case-diagram.png"
     },
     {
         "id": 3,
-        "title": "Potok ER",
-        "description": "Диаграмма потоков",
-        "preview": "img/3PotokER.png"
+        "title": "Лабораторная работа 3",
+        "description": "Определение требований к проекту",
+        "preview": "img/use-case-diagram.png"
     },
     {
         "id": 4,
-        "title": "FPAIFPUG",
-        "description": "FPAIFPUG",
-        "preview": "img/2FPAIFPUG.png"
-    },
-    {
-        "id": 5,
-        "title": "Cocomo",
-        "description": "Cocomo",
-        "preview": "img/cocomo.png"
+        "title": "Лабораторная работа 4",
+        "description": "Разработка UML Component",
+        "preview": "img/use-case-diagram.png"
     }
 ]
