@@ -164,18 +164,7 @@
               }]
             ]
         },
-                      {
-            "type": "text",
-            "data": [
-                {
-                    "text": "10. UML-диаграмма",
-                    "class": "md-title"
-                }
-            ]
-        },
-                {
-            "type": "image",
-            "data": "https://github.com/LsFurkat/pupkin-page/blob/master/lab1.png"
-        }
+                    
+              
     ]
 }
