@@ -14,7 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Система хранения и обработки ПДн"
+                    "text": "Модуль для снижения нагрузки SQL сервера"
                 }
             ]
         },
@@ -31,7 +31,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Система, осуществляющая хранение и мониторинг легальности обработки ПДн клиентов в дисконтной программе лояльности"
+                    "text": "Модуль ,который помогает снижать нагрузку на sql сервер с помощью  обработки и сортировки данных на данном компьютере "
                 }
             ]
         },
@@ -63,7 +63,7 @@
         },
         {
             "type": "image",
-            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/actorsgoals.PNG?raw=true.png?raw=true"
+            "data": "https://lsfurkat.github.io/pupkin-page/blob/master/actorsgoals.PNG?raw=true.png?raw=true"
         },
         {
             "type": "text",
@@ -81,16 +81,10 @@
                     "text": "Директор компании сформировал идею и выдвинул требования"
                 }],
                 [{
-                    "text": "Менеджер передал требования директора разработчику"
+                    "text": "Прожект менеджер вынес это в жиру"
                 }],
                 [{
-                    "text": "Разработчик имеет необходимый уровень подготовки для работы над проектом"
-                }],
-                [{
-                    "text": "Средства разработки установлены на ПК разработчика"
-                }],
-                [{
-                    "text": "Основные участники ознакомлены с ФЗ-152 О персональных данных"
+                    "text": "Политика компании"
                 }]
             ]
         },
@@ -128,7 +122,7 @@
         },
                 {
             "type": "image",
-            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/potok.PNG?raw=true"
+            "data": "https://lsfurkat.github.io/pupkin-page/blob/master/potok.PNG?raw=true"
         },
         {
             "type": "text",
@@ -181,7 +175,7 @@
         },
                 {
             "type": "image",
-            "data": "https://github.com/Hoshi089/v.yakubova/blob/master/lab1.png?raw=true"
+            "data": "https://lsfurkat.github.io/pupkin-page/blob/master/lab1.png?raw=true"
         }
     ]
 }
