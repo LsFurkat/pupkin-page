@@ -23,4 +23,10 @@
         "description": "Разработка UML диаграммы прецедентов",
         "preview": "img/use-case-diagram.png"
     }
+    {
+        "id": 5,
+        "title": "Отчёт по работе с коммандой",
+        "description": "Лабораторные по работе с коммандой",
+        "preview": "img/Пример.png"
+    }
 ]
