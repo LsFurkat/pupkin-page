@@ -129,13 +129,13 @@
       "data": [
         {
           "text": "Чтобы попробовать преобразовать диаграммы нажми сюда"
-          "links": [
+        }
+              ],
+        "links": [
           {
             "rel": "self",
             "href": "https://sggst.github.io/test.github.io/"
           }]
-        }
-              ]
        }
   ]
 }
