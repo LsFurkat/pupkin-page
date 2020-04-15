@@ -129,34 +129,9 @@
       "data": [
         {
           "text": "Чтобы попробовать преобразовать диаграммы нажми сюда"
+          "href": "https://sggst.github.io/test.github.io/"
         }
       ]
-    },
-    {
-  "collectionId": "collection-1",
-  "resourceCollection": [
-    {
-      "itemId": "item-1",
-      "links": {
-        "self": {
-          "href": "https://example.org/v1/items/item-1"
-        }
-      }
-    },
-    {
-      "itemId": "item-2",
-      "links": {
-        "self": {
-          "href": "https://example.org/v1/items/item-2"
-        }
-      }
     }
-  ],
-  "links": {
-    "self": {
-      "href": "https://example.org/v1/collections/collection-1"
-    }
-  }
-}
   ]
 }
